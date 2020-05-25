@@ -1,0 +1,17 @@
+2020-02-17 18:42:21 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202002162130.xml -> sftp://root@10.68.204.56/export/home/ccur/VTR-TSTVMarker_TvAnytime_202002162130.xml 0-387370296 60.37M/s
+2020-02-17 18:42:42 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202002162130.xml -> sftp://root@10.68.204.56/export/home/ccur/VTR-TSTVMarker_TvAnytime_202002162130.xml 0-387370296 59.16M/s
+2020-02-17 18:50:00 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202002162130.xml -> sftp://root@10.68.204.56/export/home/ccur/VTR-TSTVMarker_TvAnytime_202002162130.xml 0-387370296 57.06M/s
+2020-02-17 18:58:47 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202002162130.xml -> sftp://root@10.68.204.56/export/home/ccur/VTR-TSTVMarker_TvAnytime_202002162130.xml 0-387370296 60.20M/s
+2020-03-04 12:02:23 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003032130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003032130.xml 0-480283069 92.12M/s
+2020-03-04 12:03:39 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003032130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003032130.xml 0-480283069 95.07M/s
+2020-03-04 12:11:55 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003032130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003032130.xml 0-480283069 90.52M/s
+2020-03-04 12:12:31 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003032130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003032130.xml 0-480283069 96.84M/s
+2020-03-04 12:20:08 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003032130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003032130.xml 0-480283069 102.31M/s
+2020-03-05 04:00:13 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003032130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003032130.xml 0-480283069 44.98M/s
+2020-03-06 15:59:09 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003042130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003042130.xml 0-469398484 99.37M/s
+2020-03-06 15:59:50 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003052130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003052130.xml 0-477908251 90.09M/s
+2020-03-06 16:16:31 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003052130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003052130.xml 0-477908251 95.25M/s
+2020-03-06 16:17:33 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003052130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003052130.xml 0-477908251 94.99M/s
+2020-03-06 16:22:36 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003032130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003032130.xml 0-480283069 94.32M/s
+2020-03-06 16:46:49 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003052130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003052130.xml 0-477908251 97.32M/s
+2020-03-06 16:56:10 /mnt/tva/chroot/EPG/TVA-Prod/Loaded/VTR-TSTVMarker_TvAnytime_202003052130.xml -> sftp://sftp-vtr@10.68.211.45/upload/VTR-TSTVMarker_TvAnytime_202003052130.xml 0-477908251 99.49M/s
