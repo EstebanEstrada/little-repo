@@ -31,6 +31,3 @@ user $USER $PASSWD
 put $FILENAME
 bye
 END_SCRIPT
-
-
-#test
