@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Request xmlns="urn:eventis:traxisweb:1.0"> 
+	<ResourceQuery resourceType="category" resourceId="crid:~~2F~~2Fschange.com~~2Fe48c9ae7-c69d-4017-992b-66400d123ede"> 
+		<Options> 
+			<Option type="props">Name,ChildCategories,TitleCount</Option> 
+		</Options> 
+		<SubQueries> 
+			<SubQuery relationName="Titles">
+				<Options>
+					<Option type="props">Name</Option>
+				</Options>
+			</SubQuery>
+			<SubQuery relationName="childcategories"> 
+				<Options> 
+					<Option type="sort">Ordinal</Option> 
+					<Option type="props">Name,ChildCategories,TitleCount</Option> 
+					<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>--> 
+				</Options> 
+				<SubQueries> 
+					<SubQuery relationName="Titles">
+						<Options>
+							<Option type="props">Name</Option>
+						</Options>
+					</SubQuery>
+					<SubQuery relationName="childcategories"> 
+						<Options> 
+							<Option type="sort">Ordinal</Option> 
+							<Option type="props">Name,ChildCategories,TitleCount</Option> 
+							<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>--> 
+						</Options> 
+						<SubQueries> 
+							<SubQuery relationName="Titles">
+								<Options>
+									<Option type="props">Name</Option>
+								</Options>
+							</SubQuery>
+							<SubQuery relationName="childcategories"> 
+								<Options> 
+									<Option type="sort">Ordinal</Option> 
+									<Option type="props">Name,ChildCategories,TitleCount</Option> 
+									<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>--> 
+								</Options> 
+								<SubQueries> 
+									<SubQuery relationName="Titles">
+										<Options>
+											<Option type="props">Name</Option>
+										</Options>
+									</SubQuery>
+									<SubQuery relationName="childcategories"> 
+										<Options> 
+											<Option type="sort">Ordinal</Option> 
+											<Option type="props">Name,ChildCategories,TitleCount</Option> 
+											<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>--> 
+										</Options> 
+										<SubQueries> 
+											<SubQuery relationName="Titles">
+												<Options>
+													<Option type="props">Name</Option>
+												</Options>
+											</SubQuery>
+											<SubQuery relationName="childcategories"> 
+												<Options> 
+													<Option type="sort">Ordinal</Option> 
+													<Option type="props">Name,ChildCategories,TitleCount</Option> 
+													<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>--> 
+												</Options> 
+												<SubQueries> 
+													<SubQuery relationName="Titles">
+														<Options>
+															<Option type="props">Name</Option>
+														</Options>
+													</SubQuery>
+												</SubQueries> 
+											</SubQuery> 
+										</SubQueries> 
+									</SubQuery> 
+								</SubQueries> 
+							</SubQuery> 
+						</SubQueries> 
+					</SubQuery> 
+				</SubQueries> 
+			</SubQuery> 
+		</SubQueries> 
+	</ResourceQuery> 
+</Request>

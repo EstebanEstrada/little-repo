@@ -1,0 +1,134 @@
+<Request xmlns="urn:eventis:traxisweb:1.0"> 
+	<Identity> 
+	</Identity> 
+	<ResourceQuery resourceType="category" resourceId="crid:~~2F~~2Fschange.com~~2F18b70419-8782-4a32-ae1e-c57ae2ff18e8"> 
+		<Options> 
+			<Option type="props">Name,ChildCategories,TitleCount,SeriesCollection</Option> 
+		</Options> 
+		<SubQueries> 
+			<SubQuery relationName="childcategories"> 
+				<Options> 
+					<Option type="sort">Ordinal</Option> 
+					<Option type="props">Name,ChildCategories,TitleCount,SeriesCollection</Option> 
+					<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>-->
+				</Options> 
+				<SubQueries> 
+					<SubQuery relationName="childcategories"> 
+						<Options> 
+							<Option type="sort">Ordinal</Option> 
+							<Option type="props">Name,ChildCategories,TitleCount,SeriesCollection</Option> 
+							<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>-->
+						</Options> 
+						<SubQueries> 
+							<SubQuery relationName="childcategories"> 
+								<Options> 
+									<Option type="sort">Ordinal</Option> 
+									<Option type="props">Name,ChildCategories,TitleCount,SeriesCollection</Option> 
+									<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>-->
+								</Options> 
+								<SubQueries> 
+									<SubQuery relationName="childcategories"> 
+										<Options> 
+											<Option type="sort">Ordinal</Option> 
+											<Option type="props">Name,ChildCategories,TitleCount,SeriesCollection</Option> 
+											<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>-->
+										</Options> 
+										<SubQueries> 
+											<SubQuery relationName="childcategories"> 
+												<Options> 
+													<Option type="sort">Ordinal</Option> 
+													<Option type="props">Name,ChildCategories,TitleCount,SeriesCollection</Option> 
+													<!--<Option type="filter">ContainsContentViewableOnCpe==true</Option>-->
+												</Options> 
+											</SubQuery> 
+											<SubQuery relationName="SeriesCollection">
+												<Options>
+													<Option type="props">Name</Option>
+													<Option type="sort">Ordinal</Option>
+													<Option type="filter">Type==Show&amp;&amp;IsVisible==true</Option>
+												</Options>
+												<SubQueries>
+													<SubQuery relationName="ChildSeriesCollection">
+														<Options>
+															<Option type="props">Name,TitleCount</Option>
+															<Option type="sort">Ordinal</Option>
+															<Option type="filter">Type==Series</Option>
+														</Options>
+													</SubQuery>
+												</SubQueries>
+											</SubQuery>
+										</SubQueries> 
+									</SubQuery> 
+									<SubQuery relationName="SeriesCollection">
+										<Options>
+											<Option type="props">Name</Option>
+											<Option type="sort">Ordinal</Option>
+											<Option type="filter">Type==Show&amp;&amp;IsVisible==true</Option>
+										</Options>
+										<SubQueries>
+											<SubQuery relationName="ChildSeriesCollection">
+												<Options>
+													<Option type="props">Name,TitleCount</Option>
+													<Option type="sort">Ordinal</Option>
+													<Option type="filter">Type==Series</Option>
+												</Options>
+											</SubQuery>
+										</SubQueries>
+									</SubQuery>
+								</SubQueries> 
+							</SubQuery> 
+							<SubQuery relationName="SeriesCollection">
+								<Options>
+									<Option type="props">Name</Option>
+									<Option type="sort">Ordinal</Option>
+									<Option type="filter">Type==Show&amp;&amp;IsVisible==true</Option>
+								</Options>
+								<SubQueries>
+									<SubQuery relationName="ChildSeriesCollection">
+										<Options>
+											<Option type="props">Name,TitleCount</Option>
+											<Option type="sort">Ordinal</Option>
+											<Option type="filter">Type==Series</Option>
+										</Options>
+									</SubQuery>
+								</SubQueries>
+							</SubQuery>
+						</SubQueries> 
+					</SubQuery> 
+					<SubQuery relationName="SeriesCollection">
+						<Options>
+							<Option type="props">Name</Option>
+							<Option type="sort">Ordinal</Option>
+							<Option type="filter">Type==Show&amp;&amp;IsVisible==true</Option>
+						</Options>
+						<SubQueries>
+							<SubQuery relationName="ChildSeriesCollection">
+								<Options>
+									<Option type="props">Name,TitleCount</Option>
+									<Option type="sort">Ordinal</Option>
+									<Option type="filter">Type==Series</Option>
+								</Options>
+							</SubQuery>
+						</SubQueries>
+					</SubQuery>
+				</SubQueries> 
+			</SubQuery> 
+			<SubQuery relationName="SeriesCollection">
+				<Options>
+					<Option type="props">Name</Option>
+					<Option type="sort">Ordinal</Option>
+					<Option type="filter">Type==Show&amp;&amp;IsVisible==true</Option>
+				</Options>
+				<SubQueries>
+					<SubQuery relationName="ChildSeriesCollection">
+						<Options>
+							<Option type="props">Name,TitleCount</Option>
+							<Option type="sort">Ordinal</Option>
+							<Option type="filter">Type==Series</Option>
+						</Options>
+					</SubQuery>
+				</SubQueries>
+			</SubQuery>
+		</SubQueries> 
+	</ResourceQuery> 
+</Request>
