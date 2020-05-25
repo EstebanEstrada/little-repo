@@ -63,6 +63,7 @@ echo $fecha Files has been compressed OK, new zip file called report_$fecha_dma.
 
 #Envio de Correo con archivo comprimido
 
+
 #borrar archivo
 #echo sin borrar
 #ls -l
