@@ -68,8 +68,6 @@ echo $fecha Files has been compressed OK, new zip file called report_$fecha_dma.
 #echo $fecha Email sent OK
 
 #borrar archivo
-#echo sin borrar
-#ls -l
 #rm -r report_$fecha_dma.zip
 #echo $fecha File report_$fecha_dma.zip has been deleted
 
