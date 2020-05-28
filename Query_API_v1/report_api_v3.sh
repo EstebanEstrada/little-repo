@@ -15,44 +15,45 @@ work_folder=/var/tmp/Query_API_v1/
 #PRODUCCION-Obtención de Reportes
 cd $work_folder
 echo $fecha_completa ===================== Starting process ===================== >> $path_log_file
+
 #Reporte y logging "A_Catalogo_New_UI_Series.xml"
 curl -H "Content-Type: application/json" --data @A_Catalogo_New_UI_Series.json $api_traxis -o $output_folder/A_Catalogo_New_UI_Series.xml
-scndpartA=$(ls -l /var/tmp/Query_API_v1/output_files| grep A_Catalogo_New_UI_Series.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartA=$(ls -l $output_folder | grep A_Catalogo_New_UI_Series.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo  $fecha_completa $scndpartA $api_traxis >> $path_log_file
 
 #Reporte y logging "B_Catalogo_New_UI_Kids_Series.xml"
 curl -H "Content-Type: application/json" --data @B_Catalogo_New_UI_Kids_Series.json $api_traxis -o $output_folder/B_Catalogo_New_UI_Kids_Series.xml
-scndpartB=$(ls -l /var/tmp/Query_API_v1/output_files| grep B_Catalogo_New_UI_Kids_Series.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartB=$(ls -l $output_folder | grep B_Catalogo_New_UI_Kids_Series.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo $fecha_completa $scndpartB $api_traxis >> $path_log_file
 
 #Reporte y logging "C_Catalogo_New_UI_Titulos.xml"
 curl -H "Content-Type: application/json" --data @C_Catalogo_New_UI_Titulos.json $api_traxis -o $output_folder/C_Catalogo_New_UI_Titulos.xml
-scndpartC=$(ls -l /var/tmp/Query_API_v1/output_files| grep C_Catalogo_New_UI_Titulos.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartC=$(ls -l $output_folder | grep C_Catalogo_New_UI_Titulos.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo $fecha_completa $scndpartC $api_traxis >> $path_log_file
 
 #Reporte y logging "D_Catalogo_New_UI_Kids_Titulos.xml"
 curl -H "Content-Type: application/json" --data @D_Catalogo_New_UI_Kids_Titulos.json $api_traxis -o $output_folder/D_Catalogo_New_UI_Kids_Titulos.xml
-scndpartD=$(ls -l /var/tmp/Query_API_v1/output_files| grep D_Catalogo_New_UI_Kids_Titulos.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartD=$(ls -l $output_folder | grep D_Catalogo_New_UI_Kids_Titulos.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo $fecha_completa $scndpartD $api_traxis >> $path_log_file
 
 #Reporte y logging "E_Catalogo_New_UI_Series_Name.xml"
 curl -H "Content-Type: application/json" --data @E_Catalogo_New_UI_Series_Name.json $api_traxis -o $output_folder/E_Catalogo_New_UI_Series_Name.xml
-scndpartE=$(ls -l /var/tmp/Query_API_v1/output_files| grep E_Catalogo_New_UI_Series_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartE=$(ls -l $output_folder | grep E_Catalogo_New_UI_Series_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo $fecha_completa $scndpartE $api_traxis >> $path_log_file
 
 #Reporte y logging "F_Catalogo_New_UI_Titulos_Name.xml"
 curl -H "Content-Type: application/json" --data @F_Catalogo_New_UI_Titulos_Name.json $api_traxis -o $output_folder/F_Catalogo_New_UI_Titulos_Name.xml
-scndpartF=$(ls -l /var/tmp/Query_API_v1/output_files| grep F_Catalogo_New_UI_Titulos_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartF=$(ls -l $output_folder | grep F_Catalogo_New_UI_Titulos_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo $fecha_completa $scndpartF $api_traxis >> $path_log_file
 
 #Reporte y logging "G_Catalogo_New_UI_Kids_Series_Name.xml"
 curl -H "Content-Type: application/json" --data @G_Catalogo_New_UI_Kids_Series_Name.json $api_traxis -o $output_folder/G_Catalogo_New_UI_Kids_Series_Name.xml
-scndpartG=$(ls -l /var/tmp/Query_API_v1/output_files| grep G_Catalogo_New_UI_Kids_Series_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartG=$(ls -l $output_folder | grep G_Catalogo_New_UI_Kids_Series_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo $fecha_completa $scndpartG $api_traxis >> $path_log_file
 
 #Reporte y logging "H_Catalogo_New_UI_Kids_Titulos_Name.xml"
 curl -H "Content-Type: application/json" --data @H_Catalogo_New_UI_Kids_Titulos_Name.json $api_traxis -o $output_folder/H_Catalogo_New_UI_Kids_Titulos_Name.xml
-scndpartH=$(ls -l /var/tmp/Query_API_v1/output_files| grep H_Catalogo_New_UI_Kids_Titulos_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
+scndpartH=$(ls -l $output_folder | grep H_Catalogo_New_UI_Kids_Titulos_Name.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
 echo $fecha_completa $scndpartH $api_traxis >> $path_log_file
 
 #Comprimir archivos
