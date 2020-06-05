@@ -1,69 +1,101 @@
-27/05/2020 22:57:28Mail Sent successfully to receiver address
-27/05/20 22:59:12 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877688 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 22:59 to API Site http://192.168.56.21/traxis/web
-27/05/20 22:59:12 Compressing files...
-updating: A_Catalogo_New_UI_Series.xml (deflated 80%)
-updating: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
-updating: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
-updating: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
-updating: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
-updating: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
-updating: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
-updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 22:59:12 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:23:49 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:23 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:23:49 Compressing files...
-updating: A_Catalogo_New_UI_Series.xml (deflated 80%)
-updating: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
-updating: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
-updating: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
-updating: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
-updating: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
-updating: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
-updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:23:49 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:23:49 Email sent OK to receivers
-27/05/20 23:25:55 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:25 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:25:55 Compressing files...
-updating: A_Catalogo_New_UI_Series.xml (deflated 80%)
-updating: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
-updating: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
-updating: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
-updating: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
-updating: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
-updating: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
-updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:25:55 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:25:55 Email sent OK to receivers
-27/05/20 23:27:07 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:27 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:27:07 Compressing files...
+04/06/20 13:06:00 ===================== Starting process =====================
+04/06/20 13:06:00 report name ----> A_Catalogo_New_UI_Series.xml size 434800 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46586 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 report name ----> C_Catalogo_New_UI_Titulos.xml size 22931 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4800206 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 880692 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 428584 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 71203 was requested successfully at jun 4 13:06 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:06:00 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 75%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+04/06/20 13:06:00 Files has been compressed OK, new zip file called report_040620.zip has been created
+04/06/20 13:06:00 Email sent OK to receivers
+04/06/20 13:06:00 File report_040620.zip has been deleted from /opt/Query_API_v1/output_files
+04/06/20 13:06:00 ===================== Ending process =====================
+04/06/20 13:07:14 ===================== Starting process =====================
+04/06/20 13:07:14 report name ----> A_Catalogo_New_UI_Series.xml size 434800 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46586 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 report name ----> C_Catalogo_New_UI_Titulos.xml size 22931 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4800206 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 880692 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 428584 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 71203 was requested successfully at jun 4 13:07 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:07:14 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 75%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+04/06/20 13:07:14 Files has been compressed OK, new zip file called report_040620.zip has been created
+04/06/20 13:07:14 Email sent OK to receivers
+04/06/20 13:07:14 File report_040620.zip has been deleted from /opt/Query_API_v1/output_files
+04/06/20 13:07:14 ===================== Ending process =====================
+04/06/20 13:08:42 ===================== Starting process =====================
+04/06/20 13:08:42 report name ----> A_Catalogo_New_UI_Series.xml size 434800 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46586 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 report name ----> C_Catalogo_New_UI_Titulos.xml size 22931 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4800206 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 880692 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 428584 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 71203 was requested successfully at jun 4 13:08 to API Site http://192.168.56.21/traxis/web
+04/06/20 13:08:42 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 75%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+04/06/20 13:08:42 Files has been compressed OK, new zip file called report_040620.zip has been created
+04/06/20 13:08:42 Email sent OK to receivers
+04/06/20 13:08:42 File report_040620.zip has been deleted from /opt/Query_API_v1/output_files
+04/06/20 13:08:42 ===================== Ending process =====================
+04/06/20 17:30:01 ===================== Starting process =====================
+04/06/20 17:30:01 report name ----> A_Catalogo_New_UI_Series.xml size 442223 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46586 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 report name ----> C_Catalogo_New_UI_Titulos.xml size 22931 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4865078 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 880571 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 428584 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 71203 was requested successfully at jun 4 17:30 to API Site http://192.168.56.21/traxis/web
+04/06/20 17:30:01 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 75%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+04/06/20 17:30:01 Files has been compressed OK, new zip file called report_040620.zip has been created
+04/06/20 17:30:01 Email sent OK to receivers
+04/06/20 17:30:01 File report_040620.zip has been deleted from /opt/Query_API_v1/output_files
+04/06/20 17:30:01 ===================== Ending process =====================
+05/06/20 15:29:06 ===================== Starting process =====================
+05/06/20 15:29:06 report name ----> A_Catalogo_New_UI_Series.xml size 457759 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4855530 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 862131 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 15:29 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:29:06 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -72,17 +104,20 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:27:07 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:27:07 Email sent OK to receivers
-27/05/20 23:29:41 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:29 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:29:41 Compressing files...
+05/06/20 15:29:06 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 15:29:06 Email sent OK to receivers
+05/06/20 15:29:06 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 15:29:06 ===================== Ending process =====================
+05/06/20 15:33:46 ===================== Starting process =====================
+05/06/20 15:33:46 report name ----> A_Catalogo_New_UI_Series.xml size 457759 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4855530 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 862131 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 15:33 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:33:46 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -91,17 +126,20 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:29:41 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:29:41 Email sent OK to receivers
-27/05/20 23:31:54 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:31 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:31:54 Compressing files...
+05/06/20 15:33:46 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 15:33:46 Email sent OK to receivers
+05/06/20 15:33:46 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 15:33:46 ===================== Ending process =====================
+05/06/20 15:39:35 ===================== Starting process =====================
+05/06/20 15:39:35 report name ----> A_Catalogo_New_UI_Series.xml size 458089 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4856461 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 862131 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:35 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -110,18 +148,20 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:31:54 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:31:54 Email sent OK to receivers
-27/05/20 23:31:54 File report_270520.zip has been deleted from /var/tmp/Query_API_v1/output_files
-27/05/20 23:34:35 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:34 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:34:35 Compressing files...
+05/06/20 15:39:35 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 15:39:35 Email sent OK to receivers
+05/06/20 15:39:35 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 15:39:35 ===================== Ending process =====================
+05/06/20 15:39:58 ===================== Starting process =====================
+05/06/20 15:39:58 report name ----> A_Catalogo_New_UI_Series.xml size 458089 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4856461 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 862131 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 15:39 to API Site http://192.168.56.21/traxis/web
+05/06/20 15:39:58 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -130,18 +170,20 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:34:35 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:34:35 Email sent OK to receivers
-27/05/20 23:34:35 File report_270520.zip has been deleted from /var/tmp/Query_API_v1/output_files
-27/05/20 23:36:13 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:36 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:36:13 Compressing files...
+05/06/20 15:39:58 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 15:39:58 Email sent OK to receivers
+05/06/20 15:39:58 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 15:39:58 ===================== Ending process =====================
+05/06/20 17:30:01 ===================== Starting process =====================
+05/06/20 17:30:01 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 17:30 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:30:01 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -150,18 +192,20 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:36:13 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:36:13 Email sent OK to receivers
-27/05/20 23:36:13 File report_270520.zip has been deleted from /var/tmp/Query_API_v1/output_files
-27/05/20 23:39:49 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:39 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:39:49 Compressing files...
+05/06/20 17:30:01 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 17:30:01 Email sent OK to receivers
+05/06/20 17:30:01 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 17:30:01 ===================== Ending process =====================
+05/06/20 17:37:01 ===================== Starting process =====================
+05/06/20 17:37:01 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:01 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -170,19 +214,20 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:39:49 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:39:49 Email sent OK to receivers
-27/05/20 23:39:49 File report_270520.zip has been deleted from /var/tmp/Query_API_v1/output_files
-27/05/20 23:40:50 ===================== Starting process =====================
-27/05/20 23:40:50 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:40 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:40:50 Compressing files...
+05/06/20 17:37:01 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 17:37:01 Email sent OK to receivers
+05/06/20 17:37:01 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 17:37:01 ===================== Ending process =====================
+05/06/20 17:37:51 ===================== Starting process =====================
+05/06/20 17:37:51 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 17:37 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:37:51 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -191,20 +236,20 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:40:50 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:40:50 Email sent OK to receivers
-27/05/20 23:40:50 File report_270520.zip has been deleted from /var/tmp/Query_API_v1/output_files
-27/05/20 23:40:50 ===================== Ending process =====================
-27/05/20 23:41:18 ===================== Starting process =====================
-27/05/20 23:41:18 report name ----> A_Catalogo_New_UI_Series.xml size 414773 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 45308 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 report name ----> C_Catalogo_New_UI_Titulos.xml size 23123 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5940 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4506376 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 877589 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 403190 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 72364 was requested successfully at may 27 23:41 to API Site http://192.168.56.21/traxis/web
-27/05/20 23:41:18 Compressing files...
+05/06/20 17:37:51 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 17:37:51 Email sent OK to receivers
+05/06/20 17:37:51 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 17:37:51 ===================== Ending process =====================
+05/06/20 17:42:01 ===================== Starting process =====================
+05/06/20 17:42:01 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 17:42 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:42:01 Compressing files...
   adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
   adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
   adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
@@ -213,7 +258,139 @@ updating: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
   adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
   adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
   adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
-27/05/20 23:41:18 Files has been compressed OK, new zip file called report_270520.zip has been created
-27/05/20 23:41:18 Email sent OK to receivers
-27/05/20 23:41:18 File report_270520.zip has been deleted from /var/tmp/Query_API_v1/output_files
-27/05/20 23:41:18 ===================== Ending process =====================
+05/06/20 17:42:01 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 17:42:01 Email sent OK to receivers
+05/06/20 17:42:01 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 17:42:01 ===================== Ending process =====================
+05/06/20 17:56:01 ===================== Starting process =====================
+05/06/20 17:56:01 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 17:56 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:56:01 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+05/06/20 17:56:01 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 17:56:01 Email sent OK to receivers
+05/06/20 17:56:01 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 17:56:01 ===================== Ending process =====================
+05/06/20 17:58:33 ===================== Starting process =====================
+05/06/20 17:58:33 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 17:58 to API Site http://192.168.56.21/traxis/web
+05/06/20 17:58:33 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+05/06/20 17:58:33 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 17:58:33 Email sent OK to receivers
+05/06/20 17:58:33 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 17:58:33 ===================== Ending process =====================
+05/06/20 18:00:20 ===================== Starting process =====================
+05/06/20 18:00:20 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 18:00 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:00:20 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+05/06/20 18:00:20 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 18:00:20 Email sent OK to receivers
+05/06/20 18:00:20 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 18:00:20 ===================== Ending process =====================
+05/06/20 18:07:01 ===================== Starting process =====================
+05/06/20 18:07:01 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 18:07 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:07:01 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+05/06/20 18:07:01 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 18:07:01 Email sent OK to receivers
+05/06/20 18:07:01 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 18:07:01 ===================== Ending process =====================
+05/06/20 18:10:30 ===================== Starting process =====================
+05/06/20 18:10:30 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863258 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 18:10 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:10:30 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+05/06/20 18:10:30 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 18:10:30 Email sent OK to receivers
+05/06/20 18:10:30 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 18:10:30 ===================== Ending process =====================
+05/06/20 18:14:01 ===================== Starting process =====================
+05/06/20 18:14:01 report name ----> A_Catalogo_New_UI_Series.xml size 460403 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 report name ----> B_Catalogo_New_UI_Kids_Series.xml size 46581 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 report name ----> C_Catalogo_New_UI_Titulos.xml size 20338 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 report name ----> D_Catalogo_New_UI_Kids_Titulos.xml size 5594 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 report name ----> E_Catalogo_New_UI_Series_Name.xml size 4869301 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 report name ----> F_Catalogo_New_UI_Titulos_Name.xml size 863228 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 report name ----> G_Catalogo_New_UI_Kids_Series_Name.xml size 408158 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 report name ----> H_Catalogo_New_UI_Kids_Titulos_Name.xml size 69898 was requested successfully at jun 5 18:14 to API Site http://192.168.56.21/traxis/web
+05/06/20 18:14:01 Compressing files...
+  adding: A_Catalogo_New_UI_Series.xml (deflated 80%)
+  adding: B_Catalogo_New_UI_Kids_Series.xml (deflated 79%)
+  adding: C_Catalogo_New_UI_Titulos.xml (deflated 78%)
+  adding: D_Catalogo_New_UI_Kids_Titulos.xml (deflated 76%)
+  adding: E_Catalogo_New_UI_Series_Name.xml (deflated 92%)
+  adding: F_Catalogo_New_UI_Titulos_Name.xml (deflated 89%)
+  adding: G_Catalogo_New_UI_Kids_Series_Name.xml (deflated 92%)
+  adding: H_Catalogo_New_UI_Kids_Titulos_Name.xml (deflated 89%)
+05/06/20 18:14:01 Files has been compressed OK, new zip file called report_050620.zip has been created
+05/06/20 18:14:01 Email sent OK to receivers
+05/06/20 18:14:01 File report_050620.zip has been deleted from /opt/Query_API_v1/output_files
+05/06/20 18:14:01 ===================== Ending process =====================

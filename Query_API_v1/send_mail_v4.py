@@ -17,9 +17,8 @@ fecha = today.strftime("%d/%m/%Y")
 fecha_archivo = today.strftime("%d%m%y")
 fecha_completa = now.strftime("%d/%m/%y %H:%M:%S")
 
-
 #List only XML output Files
-os.chdir('/usr/tmp/Query_API_v1/output_files') #Path Output Files
+os.chdir('/opt/Query_API_v1/output_files') #Path Output Files
 current = os.getcwd()
 archivos_finales = []
 for file in os.listdir(current):
@@ -28,7 +27,8 @@ for file in os.listdir(current):
 
 #Send Mail
 mail_content =  ('Hola,\n'
-                'Se adjuntan los siguientes reportes de catálogo\n'
+                'Se adjuntan los siguientes reportes\n'
+				'\n'
                 '   --> ' +str(archivos_finales[0])+ '\n'
                 '   --> ' +str(archivos_finales[1])+ '\n'
                 '   --> ' +str(archivos_finales[2])+ '\n'
@@ -40,12 +40,12 @@ mail_content =  ('Hola,\n'
 #The mail addresses and password
 sender_address = 'noc@vtr.cl'
 #sender_pass = 'xxxxxxxx'
-receiver_address = 'esteban.estrada@vtr.cl' #,fernanda.aguileraramirez@vtr.cl'
+receiver_address = 'esteban.estrada@vtr.cl,vodoperaciones@vtr.cl'
 #Setup the MIME
 message = MIMEMultipart()
 message ['From'] = sender_address
 message ['To'] = receiver_address
-message ['Subject'] = 'Reportes de Catálogo UI VOD día - ' + fecha
+message ['Subject'] = 'Reportes UI VOD del ' + fecha
 #The body and the attachments for the mail
 message.attach(MIMEText(mail_content, 'plain'))
 attach_file_name = ("report_"+str(fecha_archivo)+".zip")
@@ -64,9 +64,6 @@ text = message.as_string()
 session.sendmail(sender_address, receiver_address.split(','), text)
 session.quit()
 
-#sys.stdout = open("/var/tmp/Query_API_v1/log_API_caller.log", "w")
-#print(fecha_completa +"Mail Sent successfully to receiver address")
-#sys.stdout.close()
 
 #print('Mail Sent')
 

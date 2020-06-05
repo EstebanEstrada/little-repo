@@ -8,14 +8,13 @@ fecha=$(date | awk '{print $1,$2,$3,$6,$4}')
 fecha_completa=$(date +%d/%m/%y" "%H:%M:%S)
 fecha_dma=$(date +%d%m%y)
 api_traxis=http://192.168.56.21/traxis/web
-output_folder=/var/tmp/Query_API_v1/output_files
-path_log_file=/var/tmp/Query_API_v1/log_API_caller.log
-work_folder=/var/tmp/Query_API_v1/
+output_folder=/opt/Query_API_v1/output_files
+path_log_file=/opt/Query_API_v1/log_API_caller.log
+work_folder=/opt/Query_API_v1/
 
 #PRODUCCION-Obtención de Reportes
 cd $work_folder
 echo $fecha_completa ===================== Starting process ===================== >> $path_log_file
-
 #Reporte y logging "A_Catalogo_New_UI_Series.xml"
 curl -H "Content-Type: application/json" --data @A_Catalogo_New_UI_Series.json $api_traxis -o $output_folder/A_Catalogo_New_UI_Series.xml
 scndpartA=$(ls -l $output_folder | grep A_Catalogo_New_UI_Series.xml | awk '{print  "   report name ----> "$9 " size "$5" was requested successfully at " $6,$7,$8 " to API Site "}')
@@ -67,7 +66,7 @@ echo $fecha_completa Files has been compressed OK, new zip file called report_$f
 #Envio de Correo con archivo comprimido
 sleep 3
 cd $work_folder
-python3.8 send_mail_v4.py
+python send_mail_v4.py
 sleep 3
 echo $fecha_completa Email sent OK to receivers >> $path_log_file 
 
