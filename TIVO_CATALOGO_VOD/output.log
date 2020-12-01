@@ -1,0 +1,57 @@
+01/12/20 13:01:01 Running catalog query to 10.68.248.69/middleware_server...
+01/12/20 13:01:01 Query to 10.68.248.69/middleware_server finished. File saved on
+01/12/20 13:01:01 Compressing files...
+	zip warning: name not matched: *.txt
+
+zip error: Nothing to do! (hubtv_report_011220.zip)
+01/12/20 13:01:01 Files has been compressed OK, new zip file called hubtv_report_011220.zip has been created
+01/12/20 13:01:01 Email sent OK to receivers
+01/12/20 13:01:01 File report_011220.zip has been deleted from
+01/12/20 13:01:01 ===================== Ending process =====================
+01/12/20 13:03:17 ===================== Starting process =====================
+01/12/20 13:03:17 Running catalog query to 10.68.248.69/middleware_server...
+01/12/20 13:03:17 Query to 10.68.248.69/middleware_server finished. File saved on
+01/12/20 13:03:17 Compressing files...
+	zip warning: name not matched: *.txt
+
+zip error: Nothing to do! (hubtv_report_011220.zip)
+01/12/20 13:03:17 Files has been compressed OK, new zip file called hubtv_report_011220.zip has been created
+01/12/20 13:03:17 Email sent OK to receivers
+01/12/20 13:03:17 File report_011220.zip has been deleted from
+01/12/20 13:03:17 ===================== Ending process =====================
+01/12/20 13:05:34 ===================== Starting process =====================
+01/12/20 13:05:34 Running catalog query to 10.68.248.69/middleware_server...
+01/12/20 13:05:34 Query to 10.68.248.69/middleware_server finished. File saved on
+01/12/20 13:05:34 Compressing files...
+  adding: A_CL-HUBTV-catalogoVOD.txt (deflated 81%)
+01/12/20 13:05:34 Files has been compressed OK, new zip file called hubtv_report_011220.zip has been created
+01/12/20 13:05:34 Email sent OK to receivers
+01/12/20 13:05:34 File report_011220.zip has been deleted from
+01/12/20 13:05:34 ===================== Ending process =====================
+01/12/20 13:10:49 ===================== Starting process =====================
+01/12/20 13:10:49 Running catalog query to 10.68.248.69/middleware_server...
+01/12/20 13:10:49 Query to 10.68.248.69/middleware_server finished. File saved on
+01/12/20 13:10:49 Compressing files...
+  adding: A_CL-HUBTV-catalogoVOD.txt (deflated 81%)
+01/12/20 13:10:49 Files has been compressed OK, new zip file called hubtv_report_011220.zip has been created
+01/12/20 13:10:49 Email sent OK to receivers
+01/12/20 13:10:49 File report_011220.zip has been deleted from
+01/12/20 13:10:49 ===================== Ending process =====================
+01/12/20 13:12:44 ===================== Starting process =====================
+01/12/20 13:12:44 Running catalog query to 10.68.248.69/middleware_server...
+01/12/20 13:12:44 Query to 10.68.248.69/middleware_server finished. File saved on
+01/12/20 13:12:44 Compressing files...
+  adding: A_CL-HUBTV-catalogoVOD.txt (deflated 81%)
+01/12/20 13:12:44 Files has been compressed OK, new zip file called hubtv_report_011220.zip has been created
+01/12/20 13:12:44 Email sent OK to receivers
+01/12/20 13:12:44 File hubtv_report_011220.zip has been deleted from
+01/12/20 13:12:44 ===================== Ending process =====================
+01/12/20 13:14:52 ===================== Starting process =====================
+01/12/20 13:14:52 Running catalog query to 10.68.248.69/middleware_server...
+01/12/20 13:14:52 Query to 10.68.248.69/middleware_server finished. File saved on /opt/TIVO_CATALOGO_VOD/output
+01/12/20 13:14:52 Compressing files...
+  adding: A_CL-HUBTV-catalogoVOD.txt (deflated 81%)
+01/12/20 13:14:52 Files has been compressed OK, new zip file called hubtv_report_011220.zip has been created
+01/12/20 13:14:52 Email sent OK to receivers
+01/12/20 13:14:52 File hubtv_report_011220.zip has been deleted from
+01/12/20 13:14:52 ===================== Ending process =====================
