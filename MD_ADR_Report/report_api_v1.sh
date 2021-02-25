@@ -1,3 +1,4 @@
+#!/bin/bash
 
 utc_tdate=$(date -u +"%Y-%m-%dT%H:%M:%SZ)
 utc_ydate=$(date --date="yesterday" -u +"%Y-%m-%dT%H:%M:%SZ")
