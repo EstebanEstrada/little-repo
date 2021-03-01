@@ -10,11 +10,11 @@ import subprocess
 
 
 
-path_file = "/opt/MD_TVA_CP/test/temp/"
-other_path = "/opt/MD_TVA_CP/test/"
+path_file = "/opt/MD_TVA_CP/v2/temp/"
+other_path = "/opt/MD_TVA_CP/v2/"
 file_name = "cp_file.txt"
 TVA_PATH_FOLDER = "/mnt/tva/chroot/EPG/TVA-Prod/Loaded/"
-
+send_mail_file = "/opt/MD_TVA_CP/v2/send_mail_v4.py"
 
 
 ##Obtención MD5 archivo ya copiado - nombre archivo almacenado en archivo cp_file.txt
@@ -59,7 +59,7 @@ md5_last_file_received = last_file_received.hexdigest() ## <----- MD5 último ar
 
 if md5_original_file == md5_last_file_received:   
  print("el archivo ya fue enviado a Media Distillery, no es necesario copiar")
- os.system('touch es_el_mismo.txt')
+ #os.system('touch es_el_mismo.txt')
 else:
  #print("no es el mismo el archivo se subirá a Media Distillery")
  ##Sobrescribe en CP_File.txt el nombre del archivo TVA que será subido a MD
@@ -69,9 +69,10 @@ else:
  ##Copia el archivo TVA que será subido a MD
  ##shutil.copyfile(str(latest_file), str(path_file)+str(name_file))
  ##Subir el archivo TVA a MD - uso de script en bash
- subprocess.run(['bash','./scriptEcho.sh'])
+ os.chdir(other_path)
+ subprocess.run(['bash','./sftp_upload.sh'])
  ##Enviar notificación de correo con el nombre del último archivo subido a MD
- 
+ os.system ("/usr/local/bin/python3.8 send_mail_v4.py")
  ##Borrar el archivo TVA subido
  
 
