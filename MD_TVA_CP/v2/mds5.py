@@ -4,6 +4,7 @@ from pathlib import Path
 import glob
 import re
 import shutil
+import subprocess
 
 #os.system('ls -l > /opt/MD_TVA_CP/test/temp.txt && sleep 2 && tail -1 /opt/MD_TVA_CP/temp/temp.txt | awk '{print $9}' > /opt/MD_TVA_CP/temp/cp_file.txt')
 
@@ -66,12 +67,12 @@ else:
  cp_file.write(str(name_file))
  cp_file.close()
  ##Copia el archivo TVA que será subido a MD
- shutil.copyfile(str(latest_file), str(path_file)+str(name_file))
+ ##shutil.copyfile(str(latest_file), str(path_file)+str(name_file))
  ##Subir el archivo TVA a MD - uso de script en bash
-
+ subprocess.run(['bash','./scriptEcho.sh'])
  ##Enviar notificación de correo con el nombre del último archivo subido a MD
-
+ 
  ##Borrar el archivo TVA subido
-
+ 
 
 
